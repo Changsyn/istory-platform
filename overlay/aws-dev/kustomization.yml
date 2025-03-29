@@ -15,6 +15,9 @@ patches:
     name: istory-app-deploy
 
 images:
+- name: cspark2314/istory
+  newName: cspark2314/istory
+  newTag: "13"
 - name: dangtong76/istory
   newTag: latest
 - name: istory
